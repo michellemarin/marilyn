@@ -332,9 +332,9 @@ a:hover {color: #aaa;}
 
 /* .header */
 .header h1,
-.header h5 {color: #000; font-family: 'Raleway', sans-serif; font-size: 4em; font-weight: 300; text-align: center; text-transform: uppercase; letter-spacing: .2em; margin: 40px 0 0 0;}
+.header h5 {color: #000; font-family: 'Raleway', sans-serif; font-size: 4em; font-weight: 300; text-align: center; text-transform: uppercase; letter-spacing: .2em; margin: 20px 0 0 0;}
 .header-title {display: block; margin: 0 auto;}
-.header-desc {color: #888; font-size: .7em; text-align: center; text-transform: uppercase; letter-spacing: .3em; margin: 0 0 40px 0;}
+.header-desc {color: #888; font-size: .7em; text-align: center; text-transform: uppercase; letter-spacing: .3em; margin: 0 0 20px 0;}
 
 /* .nav */
 .nav .current-menu-item > a,
