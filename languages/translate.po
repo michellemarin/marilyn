@@ -1,0 +1,471 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Marilyn Theme\n"
+"POT-Creation-Date: 2014-10-05 16:25+0800\n"
+"PO-Revision-Date: 2014-10-05 16:25+0800\n"
+"Last-Translator: Andrew Wong <hello@bluchic.com>\n"
+"Language-Team: BluChic <hello@bluchic.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:15
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:21 content-none.php:15 layouts/archives-page.php:33
+msgid "Archives by month:"
+msgstr ""
+
+#: 404.php:27 content-none.php:21 layouts/archives-page.php:39
+msgid "Archives by category:"
+msgstr ""
+
+#: archive.php:9
+msgid "Archive of"
+msgstr ""
+
+#: archive.php:9
+msgid "category"
+msgstr ""
+
+#: archive.php:11
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:13 archive.php:15 archive.php:17
+msgid "archive"
+msgstr ""
+
+#: archive.php:19
+msgid "Author Archive"
+msgstr ""
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments"
+msgstr ""
+
+#: comments.php:14 comments.php:31
+msgid "Older comments"
+msgstr ""
+
+#: comments.php:15 comments.php:32
+msgid "Newer comments"
+msgstr ""
+
+#: comments.php:19 content-list.php:29 content.php:22
+msgid "0 comment"
+msgstr ""
+
+#: comments.php:19 content-list.php:29 content.php:22
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:19 content-list.php:29 content.php:22
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:19
+msgid "on"
+msgstr ""
+
+#: comments.php:24
+msgid "Pingbacks &amp; Trackbacks on"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:55 comments.php:61 layouts/sitemap-page.php:46
+msgid "Comment"
+msgstr ""
+
+#: comments.php:56
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:57
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: comments.php:58
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:59
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: comments.php:63
+msgid "Name"
+msgstr ""
+
+#: comments.php:64 includes/custom_widgets.php:274
+msgid "Email"
+msgstr ""
+
+#: comments.php:65
+msgid "Website"
+msgstr ""
+
+#: content-none.php:4
+msgid "Not Found"
+msgstr ""
+
+#: content-none.php:9
+msgid ""
+"You have come to a page that is either not existing or already been removed"
+msgstr ""
+
+#: footer.php:26
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:26
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:26
+msgid "Theme by"
+msgstr ""
+
+#: includes/ace_functions.php:8
+msgid "by"
+msgstr ""
+
+#: includes/ace_options.php:88 includes/ace_options.php:102
+#: includes/modules.php:43
+msgid "Theme Options"
+msgstr ""
+
+#: includes/ace_options.php:114
+msgid "General settings"
+msgstr ""
+
+#: includes/ace_options.php:115
+msgid "Colors settings"
+msgstr ""
+
+#: includes/ace_options.php:116
+msgid "Extra inputs settings"
+msgstr ""
+
+#: includes/ace_options.php:117
+msgid "Slider settings"
+msgstr ""
+
+#: includes/ace_options.php:118
+msgid "Newsletter settings"
+msgstr ""
+
+#: includes/ace_options.php:119
+msgid "Entry settings"
+msgstr ""
+
+#: includes/ace_options.php:120
+msgid "Social media settings"
+msgstr ""
+
+#: includes/ace_options.php:121
+msgid "404 page settings"
+msgstr ""
+
+#: includes/ace_options.php:264 includes/ace_options.php:266
+msgid "Upload"
+msgstr ""
+
+#: includes/ace_options.php:268
+msgid "Upload an image"
+msgstr ""
+
+#: includes/ace_options.php:268
+msgid "and copy-paste the file URL or enter an image URL"
+msgstr ""
+
+#: includes/ace_options.php:268
+msgid "(including http://)"
+msgstr ""
+
+#: includes/ace_options.php:268
+msgid "Preferable size at"
+msgstr ""
+
+#: includes/ace_options.php:268
+msgid "pixel"
+msgstr ""
+
+#: includes/ace_options.php:301
+msgid "Select"
+msgstr ""
+
+#: includes/ace_updates.php:86
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: includes/ace_updates.php:91
+msgid "An unknown error occurred"
+msgstr ""
+
+#: includes/custom_post.php:8 includes/custom_post.php:9
+msgid "Slider"
+msgstr ""
+
+#: includes/custom_post.php:10
+msgid "Slider content"
+msgstr ""
+
+#: includes/custom_widgets.php:8
+msgid "Show a short biography of author"
+msgstr ""
+
+#: includes/custom_widgets.php:9
+msgid "Ace Blog Author"
+msgstr ""
+
+#: includes/custom_widgets.php:39 includes/custom_widgets.php:110
+#: includes/custom_widgets.php:178 includes/custom_widgets.php:269
+msgid "Title"
+msgstr ""
+
+#: includes/custom_widgets.php:43
+msgid "Picture"
+msgstr ""
+
+#: includes/custom_widgets.php:44
+msgid "Please upload image via Media -> Add New and get the image file URL"
+msgstr ""
+
+#: includes/custom_widgets.php:48
+msgid "Short Description"
+msgstr ""
+
+#: includes/custom_widgets.php:52
+msgid "Read More Text (optional)"
+msgstr ""
+
+#: includes/custom_widgets.php:56
+msgid "Read More URL (optional)"
+msgstr ""
+
+#: includes/custom_widgets.php:75
+msgid "This is a contact and location widget"
+msgstr ""
+
+#: includes/custom_widgets.php:76
+msgid "Ace Contact Location"
+msgstr ""
+
+#: includes/custom_widgets.php:114
+msgid "Address"
+msgstr ""
+
+#: includes/custom_widgets.php:118
+msgid "Email address"
+msgstr ""
+
+#: includes/custom_widgets.php:122
+msgid "Phone number"
+msgstr ""
+
+#: includes/custom_widgets.php:126
+msgid "Fax number"
+msgstr ""
+
+#: includes/custom_widgets.php:145
+msgid "Featured widget"
+msgstr ""
+
+#: includes/custom_widgets.php:146
+msgid "Ace Featured"
+msgstr ""
+
+#: includes/custom_widgets.php:182
+msgid "Picture (300x300)"
+msgstr ""
+
+#: includes/custom_widgets.php:186
+msgid "Image/Title URL (optional)"
+msgstr ""
+
+#: includes/custom_widgets.php:205
+msgid "Show social network like Twitter, Facebook, RSS, etc."
+msgstr ""
+
+#: includes/custom_widgets.php:206
+msgid "Ace Social Networks"
+msgstr ""
+
+#: includes/custom_widgets.php:272
+msgid "Insert full URL include http:// except for email"
+msgstr ""
+
+#: includes/custom_widgets.php:278
+msgid "Custom RSS feed"
+msgstr ""
+
+#: includes/custom_widgets.php:282
+msgid "Facebook"
+msgstr ""
+
+#: includes/custom_widgets.php:286
+msgid "Twitter"
+msgstr ""
+
+#: includes/custom_widgets.php:290
+msgid "Google Plus"
+msgstr ""
+
+#: includes/custom_widgets.php:294
+msgid "Flickr"
+msgstr ""
+
+#: includes/custom_widgets.php:298
+msgid "Linkedin"
+msgstr ""
+
+#: includes/custom_widgets.php:302
+msgid "YouTube"
+msgstr ""
+
+#: includes/custom_widgets.php:306
+msgid "Vimeo"
+msgstr ""
+
+#: includes/custom_widgets.php:310
+msgid "Instagram"
+msgstr ""
+
+#: includes/custom_widgets.php:314
+msgid "Pinterest"
+msgstr ""
+
+#: includes/custom_widgets.php:318
+msgid "Tumblr:"
+msgstr ""
+
+#: includes/custom_widgets.php:322
+msgid "Bloglovin"
+msgstr ""
+
+#: includes/modules.php:188
+msgid "Top Menu"
+msgstr ""
+
+#: includes/modules.php:234
+msgid "Continue Reading..."
+msgstr ""
+
+#: includes/modules.php:333
+msgid "Please enable referrers in your browser."
+msgstr ""
+
+#: includes/modules.php:343
+msgid "ago"
+msgstr ""
+
+#: includes/modules.php:355
+#, php-format
+msgid "<h6>%s</h6>"
+msgstr ""
+
+#: includes/modules.php:356
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: includes/modules.php:356
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/modules.php:358
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: includes/modules.php:376
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/modules.php:452
+msgid "Home"
+msgstr ""
+
+#: includes/modules.php:469
+msgid "Archive by category &#39;"
+msgstr ""
+
+#: includes/modules.php:545
+msgid "Search results for &#39;"
+msgstr ""
+
+#: includes/modules.php:549
+msgid "Posts tagged &#39;"
+msgstr ""
+
+#: includes/modules.php:557
+msgid "Articles posted by "
+msgstr ""
+
+#: includes/modules.php:567
+msgid "Page"
+msgstr ""
+
+#: includes/modules.php:581
+msgid "Pages:"
+msgstr ""
+
+#: includes/modules.php:586
+msgid "Next page"
+msgstr ""
+
+#: includes/modules.php:587
+msgid "Previous page"
+msgstr ""
+
+#: includes/modules.php:620
+msgid "Previous"
+msgstr ""
+
+#: includes/modules.php:621
+msgid "Next"
+msgstr ""
+
+#: includes/widgets.php:7
+msgid "Right Widget"
+msgstr ""
+
+#: includes/widgets.php:24
+msgid "Featured Widget"
+msgstr ""
+
+#: layouts/related.php:1
+msgid "You may also like"
+msgstr ""
+
+#: layouts/sitemap-page.php:25
+msgid "Pages"
+msgstr ""
+
+#: layouts/sitemap-page.php:31
+msgid "Categories"
+msgstr ""
+
+#: search.php:7
+msgid "Searching for"
+msgstr ""
