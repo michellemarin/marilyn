@@ -308,8 +308,8 @@ Screen larger than 981px
 
 
 /* Overall */
-body {font: 300 1em 'Lato', Arial, Verdana, Tahoma, Sans-serif; color: #333;}
-body p {margin-bottom: 20px; line-height: 1.8em; -ms-word-wrap: break-word; word-wrap: break-word;}
+body {font: 300 1em 'Lato', Arial, Verdana, Tahoma, Sans-serif; }
+body p {margin-bottom: 20px; line-height: 1.8em; -ms-word-wrap: break-word; word-wrap: break-word; color: #333; }
 
 /* hgroup */
 h1,
@@ -317,16 +317,16 @@ h2,
 h3,
 h4,
 h5,
-h6 {line-height: 1.2em; font-weight: 300; margin-bottom: 15px; letter-spacing: .05em; -ms-word-wrap: break-word; word-wrap: break-word;}
-h1 {font-size: 2em; color: #333;}
-h2 {font-size: 2em; color: #333;}
-h3 {font-size: 1.8em; color: #333;}
-h4 {font-size: 1.8em; color: #555;}
-h5 {font-size: 1.6em; color: #555; text-transform: uppercase;}
-h6 {font-size: 1em; color: #555; text-transform: uppercase;}
+h6 {line-height: 1.2em; font-weight: 300; margin-bottom: 15px; letter-spacing: .05em; -ms-word-wrap: break-word; word-wrap: break-word; color: #921F24; }
+h1 {font-size: 2em; color: #921F24;}
+h2 {font-size: 2em; color: #921F24;}
+h3 {font-size: 1.8em; color: #921F24;}
+h4 {font-size: 1.8em; color: #921F24; text-align: center;}
+h5 {font-size: 1.6em; color: #921F24; text-transform: uppercase;}
+h6 {font-size: 1em; color: #921F24; text-transform: uppercase;}
 
 /* Links */
-a {color: #333; text-decoration: none; -moz-transition: all .2s ease-in-out; -webkit-transition: all .2s ease-in-out; -ms-transition: all .2s ease-in-out; -o-transition: all .2s ease-in-out; transition: all .2s ease-in-out;}
+a {color: #921F24; text-decoration: none; -moz-transition: all .2s ease-in-out; -webkit-transition: all .2s ease-in-out; -ms-transition: all .2s ease-in-out; -o-transition: all .2s ease-in-out; transition: all .2s ease-in-out;}
 a:active {color: #000;}
 a:hover {color: #aaa;}
 
