@@ -211,9 +211,9 @@ Screen larger than 981px
   /* Overall */
   .container {margin: -1px auto 0 auto; width: 1020px; overflow: hidden; background: #fff;}
   .header {position: relative; width: 100%; margin: 0 auto; border-bottom: 4px double #fee8e4;}
-  .section {float: left; width: 640px; margin: 40px 0 20px 20px;}
-  .section-wide {clear: both; width: 980px; margin: 40px 20px 20px 20px;}
-  .aside {float: right; width: 300px; margin: 40px 20px 20px 0;}
+  .section {float: left; width: 640px; margin: 20px 0 20px 20px;}
+  .section-wide {clear: both; width: 980px; margin: 20px 20px 20px 20px;}
+  .aside {float: right; width: 300px; margin: 20px 20px 20px 0;}
   .footer {clear: both; overflow: hidden; margin: 0 auto; width: 100%; color: #777; border-top: 4px double #fee8e4;}
 
   /* .nav */
@@ -224,7 +224,7 @@ Screen larger than 981px
   .nav a:hover {color: #fff0ed;}
 
   /* .slider-newsletter */
-  .slider-newsletter {overflow: hidden; width: 980px; margin: 40px auto;}
+  .slider-newsletter {overflow: hidden; width: 980px; margin: 0 auto;}
   .responsiveslides-newsletter {width: 980px; margin: 0 auto;}
   .newsletter-section {background: #fff0ed; padding: 30px;}
   .responsiveslides-half {width: 640px; min-height: 480px; float: left;}
