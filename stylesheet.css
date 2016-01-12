@@ -212,7 +212,7 @@ Screen larger than 981px
   .container {margin: -1px auto 0 auto; width: 1020px; overflow: hidden; background: #fff;}
   .header {position: relative; width: 100%; margin: 0 auto; border-bottom: 4px double #fee8e4;}
   .section {float: left; width: 640px; margin: 20px 0 20px 20px;}
-  .section-wide {clear: both; width: 980px; margin: 20px 20px 20px 20px;}
+  .section-wide {clear: both; width: 780px; margin: 0 auto;}
   .aside {float: right; width: 300px; margin: 20px 20px 20px 0;}
   .footer {clear: both; overflow: hidden; margin: 0 auto; width: 100%; color: #777; border-top: 4px double #fee8e4;}
 
